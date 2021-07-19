@@ -4,7 +4,7 @@
 #include <Arduino.h>
 
 /** @brief Activate debug output to serial */
-// #define DEBUG_SERIAL
+#define DEBUG_SERIAL
 
 #ifdef DEBUG_SERIAL
 /** @brief Makro for debug output to serial */
